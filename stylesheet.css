@@ -1,0 +1,479 @@
+.logo {
+    width: 140px;
+    height: 70px;
+   
+}
+
+.vl {
+    border-left: 1px solid white;
+    height: 150px;
+    margin-left: 50%;
+    top: 0;
+  }
+body{
+    background-image:url("display.jpg")  ;
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: black;
+    background-position:top;
+
+}
+.video{
+    width: 86%;
+    margin-left: 7%;
+    
+    
+}
+.text{
+    color: white;
+    font-family: 'rubik';
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 28%;
+    
+}
+
+
+.text1{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1.5em;
+    position: absolute;
+    top: 69%;
+    text-align:left;
+    left: 30%;
+    transform: translate(-50%, -50%);    
+}
+
+.textoh{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1.5em;
+    position: absolute;
+    top: 69%;
+    text-align:left;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+.ran{
+    color: white;
+    font-family: 'montserrat';
+    font-size: 2em;
+    position: absolute;
+    top: 75%;
+    text-align:left;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+.raninfo{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1em;
+    position: absolute;
+    top: 80%;
+    text-align:center;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+.charge{
+    color: white;
+    font-family: 'montserrat';
+    font-size: 2em;
+    position: absolute;
+    top: 75%;
+    text-align:left;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.chargeinfo{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1em;
+    position: absolute;
+    top: 80%;
+    text-align:center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.super{
+    color: white;
+    font-family: 'montserrat';
+    font-size: 2em;
+    position: absolute;
+    top: 75%;
+    text-align:left;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+.spech1{
+    color: white;
+    font-family: 'montserrat';
+    font-size: 2em;
+    position: absolute;
+    top: 2%;
+    text-align:left;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+.spech2{
+    color: white;
+    font-family: 'Assistant';
+    font-size: 1.9em;
+    position: absolute;
+    top: 2.2%;
+    text-align:left;
+    left: 32%;
+    letter-spacing: 0.5px;
+    transform: translate(-50%, -50%);
+}
+hr{
+    width: 40px;
+    color: white;
+    margin-left: 0px;
+}
+.srange{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 20%;
+    text-align:left;
+    left: 16.7%;
+    transform: translate(-50%, -50%);
+}
+.sacc{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 20%;
+    text-align:left;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+.spower{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 50%;
+    text-align:left;
+    left: 18%;
+    transform: translate(-50%, -50%);
+}
+.strain{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 80%;
+    text-align:left;
+    left: 18.4%;
+    transform: translate(-50%, -50%);
+}
+.sdc{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 65%;
+    text-align:left;
+    left: 19.5%;
+    transform: translate(-50%, -50%);
+}
+.sspeed{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 35%;
+    text-align:left;
+    left: 40.2%;
+    
+}
+.sdrive{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 65%;
+    text-align:left;
+    left: 40.5%;
+    transform: translate(-50%, -50%);
+}
+.ssupchr{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 80%;
+    text-align:left;
+    left: 41.8%;
+    transform: translate(-50%, -50%);
+}
+.storque{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 50%;
+    text-align:left;
+    left: 40.2%;
+    transform: translate(-50%, -50%);
+    
+}
+.saccc{
+    color: white;
+    font-family: 'poppins';
+    font-size: 1em;
+    position: absolute;
+    top: 35%;
+    text-align:left;
+    left: 22%;
+    transform: translate(-50%, -50%);
+}
+.superinfo{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1em;
+    position: absolute;
+    top: 80%;
+    text-align:center;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+.raaa{
+    color: black;
+    font-family: 'rubik';
+    font-size: 1.8em;
+    position: absolute;
+    top: 8%;
+    text-align:right;
+    left: 10%;
+    transform: translate(-50%, -50%);}
+.raaah{
+    color: black;
+    font-family: 'montserrat';
+    font-size: 2em;
+    position: absolute;
+    top: 12%;
+    text-align:left;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+.raaac{
+    color: black;
+    font-family: 'rubik';
+    font-size: 1em;
+    position: absolute;
+    top: 19%;
+    text-align:left;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+.textrh{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1.5em;
+    position: absolute;
+    top: 24%;
+    text-align:left;
+    left: 81%;
+    transform: translate(-50%, -50%);
+}
+
+.textrc{
+    color: white;
+    font-family: 'Assistant';
+    font-size: 1.4em;    
+    position: absolute;
+    text-align:right;
+    top: 29%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+}
+
+.textoc{
+    color: white;
+    font-family: 'Assistant';
+    font-size: 1.4em;    
+    position: absolute;
+    text-align:left;
+    top: 76%;
+    left: 19%;
+    transform: translate(-50%, -50%);
+}
+
+    
+.text2{
+    color: white;
+    font-family: 'Assistant';
+    font-size: 1.4em;
+    position: absolute;
+    text-align:left;
+    top: 75%;
+    left: 70%;
+    transform: translate(-50%, -50%);    
+}
+.text12{
+    color: white;
+    font-family: 'rubik';
+    font-size: 1.5em;
+    float: left;
+    padding-left:10%;
+   
+}
+.text22{
+    color: white;
+    font-family: 'Assistant';
+    font-size: 1.4em;
+    padding-left: 25%;
+   
+}
+
+.gradientbl{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1));
+}
+
+.posn1{
+    margin-left: 9%;
+  float: left;  
+  display: inline;
+  position: relative;
+}
+.posn2{
+    margin-left: 10%;
+    float: left;  
+    display: inline;
+    position: relative;
+  }
+  .posn3{
+      margin-left: 10%;
+    float: left;  
+    display: inline;
+    position: relative;
+  }
+
+.arrowd{
+    margin-top: 1.6%;
+    margin-left: 49%;
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.car_name{
+    font-family: 'lato';
+    font-size: 3.5em;
+    text-align: center;
+    margin-top:4%;
+    color: rgb(73, 73, 73);
+
+}
+
+.nos{
+    font-family:'Montserrat';
+    font-size: 2.7em;
+    color: white;
+}
+
+.info1{
+    font-family: 'rubik';
+    font-size:1em;
+    color: white;
+    margin-left: 4%;
+}
+
+.info2{
+    font-family: 'rubik';
+    font-size:1em;
+    color: white;
+    margin-left: 35%;
+}
+.info3{
+    font-family: 'rubik';
+    font-size:1em;
+    color: white;
+    margin-left: 35%;
+}
+
+.headnav{
+    font-family:'Kanit';
+    color: black;
+    overflow: hidden;
+    margin-left: 60%;
+    letter-spacing: 0.1em;
+    text-align: right;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+nav a {
+    text-decoration: none;
+    text-align: center;
+    color:rgb(102, 102, 102);
+    /* padding-left:6%; */
+    font-size:1.2em;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin: 2%;
+    padding: 1% 2% 1% 2%; 
+    
+}
+
+nav a:hover {
+    color:white;
+    background-color:rgb(194, 194, 194);
+    border-radius: 30px;
+    
+}
+
+.specimg{
+    margin-left:10%;
+    width:80%;
+}
+
+.back{
+    position: relative;
+  
+  color: white;
+}
+.order{
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+    position:absolute;
+    top:40%;
+    left:80%;
+    font-family: 'rubik';
+    border: 2px solid;
+    border-radius:30px;
+    padding:1% 2% 1% 2%;
+    border-color:white;
+}
+.order:hover{
+    color:black;
+    border-color: black;
+    background-color: white;
+
+}
+.order1{
+    color: white;
+    font-size: 1.5em;
+    text-decoration: none;
+    margin-left:43%;
+    font-family: 'rubik';
+    border: 2px solid;
+    border-radius:30px;
+    padding:1% 2% 1% 2%;
+    border-color:white;
+    transition: all 0.5s;
+}
+.order1:hover{
+    color:black;
+    border:none;
+    background-color: white;
+    transform: scale(1.5);
+
+}
